@@ -1,0 +1,21 @@
+{
+  "name": "vann-v3.0",
+  "version": "1.0.0",
+  "description": "Vann-a wildlifr tour is a project/presentation by abhishek verma -ava27",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "scss": "node-sass -o css/ css/"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4",
+    "node-sass": "^4.12.0",
+    "popper": "^1.0.1"
+  }
+}

@@ -1,0 +1,68 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 395.9 293.1">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-16.71" y1="-10.91" x2="436.72" y2="269.18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.04" stop-color="#fef7ed"/>
+      <stop offset="0.18" stop-color="#fcdcb7"/>
+      <stop offset="0.33" stop-color="#fbc688"/>
+      <stop offset="0.47" stop-color="#f9b462"/>
+      <stop offset="0.6" stop-color="#f8a544"/>
+      <stop offset="0.74" stop-color="#f89b2f"/>
+      <stop offset="0.87" stop-color="#f79522"/>
+      <stop offset="1" stop-color="#f7931e"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-16.71" y1="-11.91" x2="436.72" y2="268.18" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-16.71" y1="-11.91" x2="436.72" y2="268.18" xlink:href="#linear-gradient"/>
+  </defs>
+  <title>msg</title>
+  <g id="m1">
+    <g>
+      <g>
+        <rect x="2.5" y="3.5" width="366" height="221" rx="9.5" style="fill: url(#linear-gradient)"/>
+        <path d="M617.08,226.44a7,7,0,0,1,7,7v202a7,7,0,0,1-7,7h-347a7,7,0,0,1-7-7v-202a7,7,0,0,1,7-7h347m0-5h-347a12,12,0,0,0-12,12v202a12,12,0,0,0,12,12h347a12,12,0,0,0,12-12v-202a12,12,0,0,0-12-12Z" transform="translate(-258.08 -220.44)" style="fill: #1a1b1d"/>
+      </g>
+      <polygon points="339.62 227 391.5 284.5 371 188.64 365.56 227 339.62 227" style="fill: #f7931e;stroke: #1a1b1d;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <text transform="translate(39.66 82.02)" style="font-size: 40px;font-family: Arial-BoldMT, Arial;font-weight: 700">Hi<tspan x="0" y="48">I’m your guide</tspan></text>
+  </g>
+  <g id="m2">
+    <g>
+      <g>
+        <rect x="2.5" y="3.5" width="366" height="221" rx="9.5" style="fill: url(#linear-gradient)"/>
+        <path d="M617.08,226.44a7,7,0,0,1,7,7v202a7,7,0,0,1-7,7h-347a7,7,0,0,1-7-7v-202a7,7,0,0,1,7-7h347m0-5h-347a12,12,0,0,0-12,12v202a12,12,0,0,0,12,12h347a12,12,0,0,0,12-12v-202a12,12,0,0,0-12-12Z" transform="translate(-258.08 -220.44)" style="fill: #1a1b1d"/>
+      </g>
+      <polygon points="339.62 227 391.5 284.5 371 188.64 365.56 227 339.62 227" style="fill: #f7931e;stroke: #1a1b1d;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <text transform="translate(34.67 75.02)" style="font-size: 40px;font-family: Arial-BoldMT, Arial;font-weight: 700">I will stay with <tspan x="0" y="48">you throughout </tspan><tspan x="0" y="96">this tour</tspan></text>
+  </g>
+  <g id="m3">
+    <g>
+      <g>
+        <rect x="2.5" y="2.5" width="366" height="221" rx="9.5" style="fill: url(#linear-gradient-3)"/>
+        <path d="M617.08,225.44a7,7,0,0,1,7,7v202a7,7,0,0,1-7,7h-347a7,7,0,0,1-7-7v-202a7,7,0,0,1,7-7h347m0-5h-347a12,12,0,0,0-12,12v202a12,12,0,0,0,12,12h347a12,12,0,0,0,12-12v-202a12,12,0,0,0-12-12Z" transform="translate(-258.08 -220.44)" style="fill: #1a1b1d"/>
+      </g>
+      <polygon points="339.62 226 391.5 283.5 371 187.64 365.56 226 339.62 226" style="fill: #f7931e;stroke: #1a1b1d;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <text transform="translate(34.67 74.02)" style="font-size: 40px;font-family: Arial-BoldMT, Arial;font-weight: 700">Anytime you <tspan x="0" y="48">can ask me for </tspan><tspan x="0" y="96">help </tspan></text>
+  </g>
+  <g id="m4">
+    <g>
+      <g>
+        <rect x="2.5" y="2.5" width="366" height="221" rx="9.5" style="fill: url(#linear-gradient-4)"/>
+        <path d="M617.08,225.44a7,7,0,0,1,7,7v202a7,7,0,0,1-7,7h-347a7,7,0,0,1-7-7v-202a7,7,0,0,1,7-7h347m0-5h-347a12,12,0,0,0-12,12v202a12,12,0,0,0,12,12h347a12,12,0,0,0,12-12v-202a12,12,0,0,0-12-12Z" transform="translate(-258.08 -220.44)" style="fill: #1a1b1d"/>
+      </g>
+      <polygon points="339.62 226 391.5 283.5 371 187.64 365.56 226 339.62 226" style="fill: #f7931e;stroke: #1a1b1d;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <text transform="translate(34.67 74.02)" style="font-size: 40px;font-family: Arial-BoldMT, Arial;font-weight: 700">just click me <tspan x="0" y="48">and i will be on</tspan></text>
+  </g>
+  <g id="m5">
+    <g>
+      <g>
+        <rect x="2.5" y="2.5" width="366" height="221" rx="9.5" style="fill: url(#linear-gradient-3)"/>
+        <path d="M617.08,225.44a7,7,0,0,1,7,7v202a7,7,0,0,1-7,7h-347a7,7,0,0,1-7-7v-202a7,7,0,0,1,7-7h347m0-5h-347a12,12,0,0,0-12,12v202a12,12,0,0,0,12,12h347a12,12,0,0,0,12-12v-202a12,12,0,0,0-12-12Z" transform="translate(-258.08 -220.44)" style="fill: #1a1b1d"/>
+      </g>
+      <polygon points="339.62 226 391.5 283.5 371 187.64 365.56 226 339.62 226" style="fill: #f7931e;stroke: #1a1b1d;stroke-miterlimit: 10;stroke-width: 5px"/>
+    </g>
+    <text transform="translate(34.67 74.02)" style="font-size: 40px;font-family: Arial-BoldMT, Arial;font-weight: 700">Now click me to <tspan x="0" y="48">begin</tspan></text>
+  </g>
+</svg>
